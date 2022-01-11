@@ -1,0 +1,9 @@
+[30-Oct-2020 06:39:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097160 bytes) in /home/ekspedis/public_html/application/third_party/tcpdf.php on line 18845
+[30-Oct-2020 06:40:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097160 bytes) in /home/ekspedis/public_html/application/third_party/tcpdf.php on line 18845
+[03-Nov-2020 03:30:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ekspedis/public_html/application/third_party/include/tcpdf_static.php on line 1218
+[09-Nov-2020 12:24:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ekspedis/public_html/application/third_party/tcpdf.php on line 16526
+[09-Nov-2020 12:24:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ekspedis/public_html/application/third_party/tcpdf.php on line 16526
+[09-Nov-2020 12:24:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ekspedis/public_html/application/third_party/tcpdf.php on line 16526
+[01-Feb-2021 07:43:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ekspedis/public_html/application/third_party/include/tcpdf_static.php on line 1218
+[01-Apr-2021 04:02:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ekspedis/public_html/application/third_party/tcpdf.php on line 16540
+[01-Apr-2021 04:03:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ekspedis/public_html/application/third_party/tcpdf.php on line 16595
